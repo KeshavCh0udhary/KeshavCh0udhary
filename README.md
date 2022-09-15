@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Krishna Keshav</h1>
 <h3 align="center">An Aspiring full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Profile%20views&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
+
+<p align="left"> <a href="https://twitter.com/krishna__keshav" target="blank"><img src="https://img.shields.io/badge/Krishna_Keshav_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
+
+<p align="left"> <a href="mailto:krishna2000chy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
+
+<p align="left"> <a href="https://drive.google.com/file/d/1X993G4KNPlVUhdNaDCBToXCt3_NUzH78/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Hire_Me_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/krishna__keshav" target="blank"><img src="https://img.shields.io/twitter/follow/krishna__keshav?logo=twitter&style=for-the-badge" alt="krishna__keshav" /></a> </p>
 
+
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://keshavch0udhary.github.io/](https://keshavch0udhary.github.io/)
-
 - 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **krishna2000chy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X993G4KNPlVUhdNaDCBToXCt3_NUzH78/view?usp=sharing](https://drive.google.com/file/d/1X993G4KNPlVUhdNaDCBToXCt3_NUzH78/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
