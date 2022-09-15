@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krishna__keshav" target="blank"><img src="https://img.shields.io/badge/Krishna_Keshav_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
+<p align="left"> <a href="https://KeshavCh0udhary.githum.io" target="blank"><img src="https://img.shields.io/badge/Krishna_Keshav_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
 
 <p align="left"> <a href="mailto:krishna2000chy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
 
