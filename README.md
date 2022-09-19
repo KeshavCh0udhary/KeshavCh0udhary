@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
+<img style="height: 400px;"  align="right" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></img>
 
 <br>
 <p align="left"> <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
@@ -36,9 +37,8 @@
     </a>
 </p>
  <br/> <div display="flex" align="center" >
-    <a href="https://github.com/keshavch0udhary/github-readme-stats"><img alt="Krishna Keshav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keshavch0udhary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-     <a  href="https://github.com/keshavch0udhary/github-readme-stats"><img alt="Krishna Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </div>
+    <a  href="https://github.com/keshavch0udhary/github-readme-stats"><img alt="Krishna Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavch0udhary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/keshavch0udhary/github-readme-stats"><img alt="Krishna Keshav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keshavch0udhary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
    
  
   <br/>
