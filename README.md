@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
-<img style="height: 400px;"  align="right" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></img>
+<img style="height: 350px;"  align="right" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></img>
 
 <br>
 <p align="left"> <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
