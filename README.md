@@ -1,14 +1,12 @@
 [![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1670361278~exp=1670361878~hmac=ba42ef1d98d78937f6f0369190d3bfa0626ec7df08263aee94553829489b5ccb)](https://KeshavCh0udhary.github.io)
-
 <h1 align="center">Hi 👋, I'm Krishna Keshav</h1>
 <h3 align="center">An Aspiring full stack web developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavch0udhary&label=Visitors&color=0e75b6&style=flat" alt="keshavch0udhary" /> </p>
 
 
 <p align="left"> <a href="https://KeshavCh0udhary.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="krishna__keshav" /></a> </p>
 
-<img style="height: 350px;"  align="right" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"></img>
+<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://drive.google.com/file/d/1X993G4KNPlVUhdNaDCBToXCt3_NUzH78/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
 
