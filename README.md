@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://drive.google.com/file/d/1X993G4KNPlVUhdNaDCBToXCt3_NUzH78/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
+<p align="left"> <a href="https://drive.google.com/file/d/1vg8DZtDNgcc0W09V5fQXLjUpeOUFDUrz/view" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume"/></a> </p>
 
 <p align="left"> <a href="mailto:krishna2000chy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
 
