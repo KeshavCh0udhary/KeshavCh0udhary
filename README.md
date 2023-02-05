@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
