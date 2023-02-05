@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/krishna__keshav" target="blank"><img src="https://img.shields.io/twitter/follow/krishna__keshav?logo=twitter&style=for-the-badge" alt="krishna__keshav" /></a> </p>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Javascript**
 
